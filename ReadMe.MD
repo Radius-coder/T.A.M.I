@@ -1,5 +1,5 @@
 # Prerequistes:
-
+'main.py' will automatically run the installation process on start up.
 Plugged in microphone,
 Connected to internet,
 Microsoft's Windows operating system,
@@ -22,4 +22,6 @@ All functions are ran through 'analyse.py'.'analyze.py' checks the user's input 
 [This function uses Tuya's API to connect to my smart light.](https://www.youtube.com/shorts/Pj2tcwc5rWc) This opens up a lot of doors as a voice assitant because you can control any smart device with it. You can create schedules on them or combine devices for a better effect. For example you could have an alarm that turns on the lights and plays a song at the same time. If the user has the right equipment you could even boil their kettle or start the hoovering. 
 
 ## Future of this project
-I have already put this program onto a raspberyy Pi and safely contained with in a teddy bear. I was happy with the results but I would like to see simple movement in the body and a custom voice so it suits the teddy bear.
+I have already put this program onto a raspberyy Pi and safely contained with in a teddy bear. I was happy with the results but I would like to see simple movement in the body and a custom voice so it suits the teddy bear. I would also like to have a personliased experience. I want TAMI to take in when for example, the user sets an alarm. It will study the time they created the alarm and the time they set it for and how many times they set that exact one. If it hits so many times then TAMI will automcatically say at that time something like 'Would you like to set an alarm for 6.30am on Monday *user's name*  ?' and if the user says yes then the function reccomendation stays otherwise, a counter will go down to show it is not as used. When it's low enough then it wont recommend that function. This concept can be used for things like timers, playing music. turning on and off lights etc.
+
+Feel free to ask me any questions.
