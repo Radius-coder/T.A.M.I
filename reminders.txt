@@ -1,0 +1,24 @@
+On,today,at,2,30,pm,you have,to take  medicine
+today,1,53,pm
+On,today,at,2,30,pm,you have,to take  medicine
+today,1,56,pm
+On,today,at,4,00,pm,you have,to take  medicine
+today,2,50,pm
+On,tomororw,at,4,00,pm,you have,to take  medicine
+today,3,00,pm
+On,today,at,4,00,pm,you have,to see if this works
+today,2,55,pm
+On,today,at,1,18,pm,you have,afternoon
+today,0,18,pm
+On,today,at,12,17,pm,you have,afternoon
+today,12,23,pm
+On,today,at,12,17,,you have,to take medicine
+today,12,27,
+On,today,at,12,17,,you have,to take medicine
+today,11,17,
+On,today,at,12,17,the name,you have,to take medicine
+today,11,17,the name
+On,today,at,12,17,the moon,you have,to take medicine
+today,12,28,p.m.
+On,today,at,12,17,,you have,to take medicine
+today,12,33,pm
